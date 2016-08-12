@@ -21393,17 +21393,5 @@ angular.module('mm.addons.participants')
 
 angular.module('mm.core')
 
-.constant('mmCoreConfigConstants', {
-    "app_id" : "com.jmoscoso.palermovr",
-    "versioncode" : "2016",
-    "versionname" : "1.0",
-    "cache_expiration_time" : 300000,
-    "default_lang" : "es",
-    "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
-    "wsservice" : "moodle_mobile_app",
-    "wsextservice" : "local_mobile",
-    "siteurl" : "https://palermovr.moodlecloud.com",
-    "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
-}
+
 );
